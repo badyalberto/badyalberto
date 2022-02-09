@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi👋, Soy Alberto, desarrollador Web 💻
 
 <!--
 **badyalberto/badyalberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🚀 About Me
+Desarrollador Junior Full-stack enfocado en backend. Las tecnologias y lenguajes mas utilizado por mi han sido:
+
+Front (HTML,CSS,ES6,REACT)
+BACK (Node.js,Express,PHP,Laravel,Mysql)
+
+He tocado tanto el Stack MERN como el Stack LAMP.
+Aparte de todo esto soy un aficionado al mundo del fitness y a la tecnologia, me gusta ir al cine y salir por el campo a pasear.
 
 ## 🛠 Skills
 <div style="display:flex;">
