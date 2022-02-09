@@ -15,14 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3 align="center">Back-end | Full-stack Desarrollador Junior :sparkles:</span>
+
 ## 🚀 About Me
 Desarrollador Junior Full-stack enfocado en backend. Las tecnologias y lenguajes mas utilizado por mi han sido:
 
 Front (HTML,CSS,ES6,REACT)
 BACK (Node.js,Express,PHP,Laravel,Mysql)
 
-He tocado tanto el Stack MERN como el Stack LAMP.
-Aparte de todo esto soy un aficionado al mundo del fitness y a la tecnologia, me gusta ir al cine y salir por el campo a pasear.
+He tocado tanto el Stack MERN como el Stack LAMP y el patrón de diseño de software MVC.
+
+Aparte de todo esto soy un aficionado al mundo del fitness :muscle: y a la tecnologia :technologist:, me gusta ir al cine :movie_camera:,salir por el campo a pasear	:bouquet: y comer sushi :sushi:.
+
+Si te apetece visitar mi web professional aqui te dejo el link: <a href="https://www.albertochica.com">Web Developer</a> :stuck_out_tongue_winking_eye:
 
 ## 🛠 Skills
 <div style="display:flex;">
@@ -49,6 +54,10 @@ Aparte de todo esto soy un aficionado al mundo del fitness y a la tecnologia, me
    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="width:50px;"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg" style="width:50px;"/>
   </div>
+
+## :mailbox: Contactame
+<a href="https://www.linkedin.com/in/albertoweb/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" style="width:50px;" /></a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badyalberto&hide=contribs,prs)
 
