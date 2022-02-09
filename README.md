@@ -58,6 +58,7 @@ Si te apetece visitar mi web professional aqui te dejo el link: <a href="https:/
 ## :mailbox: Contact
 <a href="https://www.linkedin.com/in/albertoweb/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" style="width:50px;" /></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badyalberto&layout=compact)](https://github.com/badyalberto/github-readme-stats)
 
-![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=badyalberto&hide=contribs,prs)
+![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=badyalberto&show_icons=true&theme=dark)
 
