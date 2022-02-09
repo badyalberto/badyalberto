@@ -55,9 +55,9 @@ Si te apetece visitar mi web professional aqui te dejo el link: <a href="https:/
    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg" style="width:50px;"/>
   </div>
 
-## :mailbox: Contactame
+## :mailbox: Contact
 <a href="https://www.linkedin.com/in/albertoweb/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" style="width:50px;" /></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badyalberto&hide=contribs,prs)
+![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=badyalberto&hide=contribs,prs)
 
