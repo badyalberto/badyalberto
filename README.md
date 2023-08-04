@@ -1,59 +1,49 @@
-## Hi👋, Soy Alberto, desarrollador Web 💻
+👋 ¡Hola! Soy Alberto, un apasionado desarrollador .NET con experiencia en la creación de soluciones innovadoras y eficientes. Mi objetivo principal es utilizar mi conocimiento y habilidades para crear aplicaciones de alta calidad y con un rendimiento óptimo.
 
-<!--
-**badyalberto/badyalberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Actualmente trabajo como desarrollador .NET en Kenos Technology, donde he tenido la oportunidad de colaborar en proyectos emocionantes y desafiantes. Mi enfoque principal es el desarrollo web utilizando ASP.NET Core y el diseño de arquitecturas escalables y seguras.
 
-Here are some ideas to get you started:
+🚀 A lo largo de mi carrera, he trabajado en diversos proyectos que abarcan desde aplicaciones empresariales hasta aplicaciones móviles. Disfruto trabajando en equipo y me siento cómodo colaborando con otros desarrolladores, diseñadores y especialistas para lograr resultados excepcionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Siempre me mantengo actualizado con las últimas tendencias y tecnologías en el mundo del desarrollo .NET. Me apasiona aprender y enfrentar nuevos desafíos que me ayuden a crecer profesionalmente.
 
-<h3 align="center">Back-end | Full-stack Desarrollador Junior :sparkles:</span>
+🔧 Algunas de las tecnologías con las que trabajo incluyen:
+  - C# y .NET Framework/Core
+  - ASP.NET Core y MVC
+  - Entity Framework y SQL Server
+  - HTML, CSS, JavaScript y React.
+  - Git y Control de versiones
+  - Azure y servicios en la nube
+  - Arquitectura n-capas (DDD)
+  - Tests unitarios y de integración
+  - Metodologia Agile.
 
-## 🚀 About Me
-Desarrollador Junior Full-stack enfocado en backend. Las tecnologias y lenguajes mas utilizado por mi han sido:
+🌱 Fuera del ámbito del desarrollo, me encanta practicar deporte, los videojuegos y las peliculas de ciencia ficcion y comedia. También disfruto mucho leyendo libros de tecnologias y viendo las ultimas novedades que van saliendo al mercado.
 
-Front (HTML,CSS,ES6,REACT)
-BACK (Node.js,Express,PHP,Laravel,Mysql)
+💬 No dudes en contactarme si tienes alguna pregunta o si te gustaría hablar sobre posibles oportunidades de colaboración. Estoy siempre dispuesto a ayudar y contribuir en proyectos emocionantes.
 
-He tocado tanto el Stack MERN como el Stack LAMP y el patrón de diseño de software MVC.
-
-Aparte de todo esto soy un aficionado al mundo del fitness :muscle: y a la tecnologia :technologist:, me gusta ir al cine :movie_camera:,salir por el campo a pasear	:bouquet: y comer sushi :sushi:.
-
-Si te apetece visitar mi web professional aqui te dejo el link: <a href="https://www.albertochica.com">Web Developer</a> :stuck_out_tongue_winking_eye:
+¡Gracias por visitar mi perfil de GitHub! Espero que encuentres algo interesante por aquí. ¡Hagamos del mundo digital un lugar mejor, una línea de código a la vez! 🌟
 
 ## 🛠 Skills
 <div style="display:flex;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" style="width:50px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" style="width:50px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" style="width:50px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" style="width:50px;"/>
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" style="width:50px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original.svg" style="width:50px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" style="width:50px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg" style="width:50px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" style="width:50px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="width:50px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="width:50px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" style="width:50px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original-wordmark.svg" style="width:50px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" style="width:50px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" style="width:50px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" style="width:50px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" style="width:50px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" style="width:50px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" style="width:50px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original.svg" style="width:50px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" style="width:50px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" style="width:50px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg" style="width:50px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original.svg" style="width:50px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain.svg" style="width:50px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg" style="width:50px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" style="width:50px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" style="width:50px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" style="width:50px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/redux/redux-original.svg" style="width:50px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg" style="width:50px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/symfony/symfony-original.svg" style="width:50px;"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="width:50px;"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg" style="width:50px;"/>
-  </div>
+</div>
 
 ## :mailbox: Contact
 <a href="https://www.linkedin.com/in/albertoweb/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" style="width:50px;" /></a>
